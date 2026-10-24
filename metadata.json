@@ -1,0 +1,8 @@
+{
+  "name": "JK Down Bot - ToDus S3 Cloud Bridge",
+  "description": "High-speed Telegram to ToDus S3 file bridge, queue management, quota tracker, and administrative control panel.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
